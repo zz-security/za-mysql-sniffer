@@ -77,5 +77,3 @@ mysql-sniffer -i eth0 -p 3306 -T 127.0.0.1:1234 -l logs
 ```
 ……
 
-<img src="http://i.imgur.com/pL4ni57.png" width = "500" alt="2">
-
